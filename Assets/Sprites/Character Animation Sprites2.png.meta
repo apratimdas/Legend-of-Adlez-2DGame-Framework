@@ -1,0 +1,249 @@
+fileFormatVersion: 2
+guid: be1efb8ff3cd67f4582eaf35943b413f
+timeCreated: 1494027047
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Character Animation Sprites2_0
+    21300002: Character Animation Sprites2_1
+    21300004: Character Animation Sprites2_2
+    21300006: Character Animation Sprites2_3
+    21300008: Character Animation Sprites2_4
+    21300010: Character Animation Sprites2_5
+    21300012: Character Animation Sprites2_6
+    21300014: Character Animation Sprites2_7
+    21300016: Character Animation Sprites2_8
+    21300018: Character Animation Sprites2_9
+    21300020: Character Animation Sprites2_10
+    21300022: Character Animation Sprites2_11
+    21300024: Character Animation Sprites2_12
+    21300026: Character Animation Sprites2_13
+    21300028: Character Animation Sprites2_14
+    21300030: Character Animation Sprites2_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Character Animation Sprites2_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 175
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Character Animation Sprites2_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 175
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Character Animation Sprites2_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 175
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Character Animation Sprites2_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 175
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Character Animation Sprites2_4
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 120
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Character Animation Sprites2_5
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 120
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Character Animation Sprites2_6
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 120
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Character Animation Sprites2_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 120
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Character Animation Sprites2_8
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 66
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Character Animation Sprites2_9
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 66
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Character Animation Sprites2_10
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 66
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Character Animation Sprites2_11
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 66
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Character Animation Sprites2_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 13
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Character Animation Sprites2_13
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 13
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Character Animation Sprites2_14
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 13
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Character Animation Sprites2_15
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 13
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

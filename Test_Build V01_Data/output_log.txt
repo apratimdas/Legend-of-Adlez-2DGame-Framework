@@ -1,0 +1,59 @@
+Initialize engine version: 5.3.5f1 (960ebf59018a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1be1)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Samples\Legend-of-Adlez-2DGame-Framework\Legend-of-Adlez-2DGame-Framework\Test_Build V01_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Samples\Legend-of-Adlez-2DGame-Framework\Legend-of-Adlez-2DGame-Framework\Test_Build V01_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Samples\Legend-of-Adlez-2DGame-Framework\Legend-of-Adlez-2DGame-Framework\Test_Build V01_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Samples\Legend-of-Adlez-2DGame-Framework\Legend-of-Adlez-2DGame-Framework\Test_Build V01_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Samples\Legend-of-Adlez-2DGame-Framework\Legend-of-Adlez-2DGame-Framework\Test_Build V01_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Samples\Legend-of-Adlez-2DGame-Framework\Legend-of-Adlez-2DGame-Framework\Test_Build V01_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Samples\Legend-of-Adlez-2DGame-Framework\Legend-of-Adlez-2DGame-Framework\Test_Build V01_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Samples\Legend-of-Adlez-2DGame-Framework\Legend-of-Adlez-2DGame-Framework\Test_Build V01_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.139 seconds
+Platform assembly: D:\Samples\Legend-of-Adlez-2DGame-Framework\Legend-of-Adlez-2DGame-Framework\Test_Build V01_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Samples\Legend-of-Adlez-2DGame-Framework\Legend-of-Adlez-2DGame-Framework\Test_Build V01_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 55.541351 ms
+Boosted
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+EnemyTestingIkarusx 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+healed
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+EnemyTestingIkarusx 3 (5)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+EnemyTestingIkarusx 3(Clone)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+EnemyTestingIkarusx 3 (3)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+EnemyTestingIkarusx 3 (3)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+EnemyTestingIkarusx 3 (3)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 671c -> priority: 1 
+  Thread -> id: 65ec -> priority: 1 
