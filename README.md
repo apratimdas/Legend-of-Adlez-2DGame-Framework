@@ -2,4 +2,4 @@
 
 Simple 2D hack and slash game using Unity
 
-![SS](http://imgur.com/i4TlSWh)
+![SS](https://ibb.co/int0OF)
