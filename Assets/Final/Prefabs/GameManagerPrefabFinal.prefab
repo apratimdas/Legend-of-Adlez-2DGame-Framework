@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &197994
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 422074}
+  - 114: {fileID: 11458042}
+  - 114: {fileID: 11437708}
+  m_Layer: 0
+  m_Name: GameManagerPrefabFinal
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &422074
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 197994}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 8.42, y: -3.7, z: 0}
+  m_LocalScale: {x: 0.22456358, y: 0.22456348, z: 0.22456348}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11437708
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 197994}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 670602369e640f34087be16cc0c4cb97, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gridStartPos: {x: -14, y: -20}
+  columns: 14
+  rows: 7
+  pickupCount:
+    minimum: 0
+    maximum: 2
+  spawnerCount:
+    minimum: 1
+    maximum: 5
+  pickupTiles:
+  - {fileID: 191826, guid: b09d9686bac49bc4e9ea947f164bd181, type: 2}
+  - {fileID: 134296, guid: 34c5c8d8b00059c4ca52b607e89b5a98, type: 2}
+  spawnerTiles:
+  - {fileID: 147674, guid: d49de505a2f5b534b8b79fc9af1b1e6e, type: 2}
+  enemyTiles:
+  - {fileID: 162486, guid: 71d634515d1b2084c934ed07484fa903, type: 2}
+  bossTiles:
+  - {fileID: 145860, guid: 937e210b7e199844bbb9dc332a1e2b5f, type: 2}
+  parentName: Level
+--- !u!114 &11458042
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 197994}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e369aa111e2db3439f05dd61f35e8bf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  waveStartDelay: 2
+  waveInterval: 10
+  turnDelay: 0.1
+  waveScript: {fileID: 11437708}
+  playersTurn: 1
+  score: 0
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 197994}
+  m_IsPrefabParent: 1

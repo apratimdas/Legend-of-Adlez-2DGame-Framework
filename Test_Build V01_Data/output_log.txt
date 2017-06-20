@@ -14,46 +14,42 @@ Platform assembly: D:\Samples\Legend-of-Adlez-2DGame-Framework\Legend-of-Adlez-2
 Loading D:\Samples\Legend-of-Adlez-2DGame-Framework\Legend-of-Adlez-2DGame-Framework\Test_Build V01_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
 Platform assembly: D:\Samples\Legend-of-Adlez-2DGame-Framework\Legend-of-Adlez-2DGame-Framework\Test_Build V01_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
 Loading D:\Samples\Legend-of-Adlez-2DGame-Framework\Legend-of-Adlez-2DGame-Framework\Test_Build V01_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.139 seconds
+- Completed reload, in  0.041 seconds
 Platform assembly: D:\Samples\Legend-of-Adlez-2DGame-Framework\Legend-of-Adlez-2DGame-Framework\Test_Build V01_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: D:\Samples\Legend-of-Adlez-2DGame-Framework\Legend-of-Adlez-2DGame-Framework\Test_Build V01_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 55.541351 ms
+UnloadTime: 0.391294 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.207663 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1888.
+Total: 0.449277 ms (FindLiveObjects: 0.107213 ms CreateObjectMapping: 0.039384 ms MarkObjects: 0.297208 ms  DeleteObjects: 0.005105 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.002419 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 1882.
+Total: 0.498507 ms (FindLiveObjects: 0.084604 ms CreateObjectMapping: 0.058712 ms MarkObjects: 0.331123 ms  DeleteObjects: 0.023339 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.118451 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 1882.
+Total: 0.429949 ms (FindLiveObjects: 0.092991 ms CreateObjectMapping: 0.035737 ms MarkObjects: 0.296479 ms  DeleteObjects: 0.004376 ms)
+
 Boosted
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
 
-EnemyTestingIkarusx 3
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.709288 ms
 
-healed
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
-
-EnemyTestingIkarusx 3 (5)
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
-
-EnemyTestingIkarusx 3(Clone)
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
-
-EnemyTestingIkarusx 3 (3)
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
-
-EnemyTestingIkarusx 3 (3)
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
-
-EnemyTestingIkarusx 3 (3)
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 1871.
+Total: 0.639271 ms (FindLiveObjects: 0.087521 ms CreateObjectMapping: 0.053971 ms MarkObjects: 0.492673 ms  DeleteObjects: 0.004740 ms)
 
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 671c -> priority: 1 
-  Thread -> id: 65ec -> priority: 1 
+  Thread -> id: 1708 -> priority: 1 
+  Thread -> id: 1228 -> priority: 1 
